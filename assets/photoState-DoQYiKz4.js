@@ -1,0 +1,1 @@
+var e=null;function t(t,n){e={seed:t,street:n}}function n(t,n){return!e||e.seed!==t||e.street!==n?!1:(e=null,!0)}function r(){e=null}export{t as n,n as r,r as t};

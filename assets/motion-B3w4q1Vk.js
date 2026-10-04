@@ -1,0 +1,1 @@
+var e={duration:{fast:120,base:180,medium:220,slow:250,page:300,fade:140,press:80,enter:240,hop:240,swing:250,arrivalStep:60,coinCount:420},ease:{out:`cubic-bezier(0.2, 0.8, 0.3, 1)`,back:`cubic-bezier(0.34, 1.56, 0.64, 1)`,elastic:`cubic-bezier(0.34, 1.9, 0.5, 1)`}};export{e as t};
