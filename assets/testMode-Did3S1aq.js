@@ -1,0 +1,1 @@
+var e=!1,t=!1;function n(t){e=t}function r(){return e}var i=!1,a=null;function o(e){if(i=e,e)return;let t=a;a=null,t?.()}function s(){return i}function c(e){a=e}function l(){i=!1,a=null}function u(){t=!1}function d(){t=!0}function f(){return t}export{n as a,f as c,l as i,s as l,c as n,o,u as r,r as s,d as t};
