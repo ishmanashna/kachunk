@@ -1,0 +1,1 @@
+import{qt as e,z as t}from"./commands-Dp9EqDZ9.js";function n(n,r){return t(r===n?`common.round_capsules.all`:`common.round_capsules.some`,{n:r,total:n,hand:e.handSize})}function r(e){let t=e.indexOf(`,`);return t<0?[e,``]:[e.slice(0,t+1),e.slice(t+1).trimStart()]}export{r as n,n as t};
