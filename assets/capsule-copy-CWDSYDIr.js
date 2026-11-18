@@ -1,1 +1,0 @@
-import{fa as e,rn as t}from"./part-art-DrnqtQJo.js";function n(n,r){return t(r===n?`common.round_capsules.all`:`common.round_capsules.some`,{n:r,total:n,hand:e.handSize})}function r(e){let t=e.indexOf(`,`);return t<0?[e,``]:[e.slice(0,t+1),e.slice(t+1).trimStart()]}export{r as n,n as t};
