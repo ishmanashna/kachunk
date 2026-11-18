@@ -1,1 +1,0 @@
-import{B as e,Zt as t}from"./commands-CNcHP81Q.js";function n(n,r){return e(r===n?`common.round_capsules.all`:`common.round_capsules.some`,{n:r,total:n,hand:t.handSize})}function r(e){let t=e.indexOf(`,`);return t<0?[e,``]:[e.slice(0,t+1),e.slice(t+1).trimStart()]}export{r as n,n as t};

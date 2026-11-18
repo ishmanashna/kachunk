@@ -1,1 +1,0 @@
-import{B as e}from"./commands-CNcHP81Q.js";function t(t){let n=[];for(let r of t.opts.effects)if(r.startsWith(`boss:`)){let t=r.slice(5);n.push({kind:`boss`,name:e(`boss.${t}.rule.name`),desc:e(`boss.${t}.rule.desc`)})}else if(r.startsWith(`condition:`)){let t=r.slice(10);n.push({kind:`condition`,name:e(`condition.${t}.name`),desc:e(`condition.${t}.desc`)})}return n}export{t};
